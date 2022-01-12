@@ -1,2 +1,2 @@
 # DataBase_MySQL
-- Utilizando banco de dados MySQL com o DBeaver
+- Conhecimento adquirido em curso sobre banco de dados MySQL utilizando o DBeaver em que aprendi os comandos SQL: DDL, DQL, DML E CRUD na prática
