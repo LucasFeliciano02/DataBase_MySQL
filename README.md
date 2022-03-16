@@ -1,5 +1,7 @@
 # Utilizando MySQL com DBeaver E integrando Python com SQLite
 
+<br>
+
 ## :dart: Sobre ##
 
 ```sh
