@@ -1,4 +1,4 @@
-# Utilizando MySQL com Dbeaver E integrando Python com SQLite
+# Utilizando MySQL com DBeaver E integrando Python com SQLite
 
 ```sh
 • Conhecimento adquirido em cursos sobre banco de dados MySQL utilizando o DBeaver com os comandos SQL CRUD: DDL, DQL e DML
