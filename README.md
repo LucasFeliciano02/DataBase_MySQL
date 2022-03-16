@@ -1,6 +1,6 @@
 # Utilizando MySQL com DBeaver E integrando Python com SQLite
 
-<br>
+ &#xa0;
 
 ## :dart: Sobre ##
 
