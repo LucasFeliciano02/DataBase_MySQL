@@ -2,7 +2,7 @@
 
  &#xa0;
 
-## :dart: Sobre ##
+
 
 ```sh
 • Conhecimento adquirido em cursos sobre banco de dados MySQL utilizando o DBeaver com os comandos SQL CRUD: DDL, DQL e DML
