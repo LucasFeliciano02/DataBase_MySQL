@@ -52,5 +52,3 @@ with conexao:
 with conexao:
     cursor = conexao.cursor()
     cursor.execute("CREATE TABLE Livro_Alugado(id INTEGER, id_livro INT, id_membro INT, alugado_em DATE, data_de_retorno DATE, PRIMARY KEY('id' AUTOINCREMENT), FOREIGN KEY('id_livro') REFERENCES 'Livro'('id') ON DELETE CASCADE, FOREIGN KEY('id_membro') REFERENCES 'Membro'('id') ON DELETE CASCADE )")
-
-    
