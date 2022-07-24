@@ -11,7 +11,7 @@ def conecta():
     conexao = pymysql.connect(
         host='127.0.0.1',
         user='Lucas',
-        password='Lm082403',
+        password='SENHA',
         db='clientes',
         charset='utf8mb4',
         cursorclass=pymysql.cursors.DictCursor
